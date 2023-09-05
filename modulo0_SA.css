@@ -12,7 +12,7 @@ html{
     padding-top:10px;
     font-size:1.875rem;
 }
- .container .h6{
+ .container .h6, .container h6{
     font-size:1.13rem;
     padding-top:10px;
     font-weight: 400;
