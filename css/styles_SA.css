@@ -96,7 +96,8 @@ a.color2:hover{
 
 /* NAVBAR */
 .navbar-nav .nav-item .nav-link{
-    font-size: 14px;
+    font-size: 14px !important;
+    font-weight: 700;
 }
 @media only screen and (max-width:991px){
     .nav{
