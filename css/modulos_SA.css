@@ -1,10 +1,10 @@
-html{
+/* html{
     -moz-text-size-adjust: none;
     -webkit-text-size-adjust: none;
     text-size-adjust: none;
     font-size: 100%;
     overflow-wrap:anywhere;
-}
+} */
 @media only screen and (min-width : 321px) {
     .carousel-item{
         padding:0 !important;
@@ -13,7 +13,7 @@ html{
         padding:30 !important;
     }
 }
-@media only screen and (min-width : 992px) {
+/* @media only screen and (min-width : 992px) {
     .embed-responsive1{
         width:670px;
         height:380px;
@@ -42,4 +42,4 @@ p[style*="14px"], span[style*="14px"], div[class*="col-xs-7 col-md-8 px-3 pb-2"]
 }
  .navbar-nav .nav-item .nav-link{
     font-size: 14px;
-}
+} */
